@@ -1,4 +1,7 @@
-### Hi there 👋
+### pjoe
+- 🔭 Working on: [gfx-rs/naga](https://github.com/gfx-rs/naga), [pjoe/loadem](https://github.com/pjoe/loadem)
+- 🌱 Learning: Rust, Spir-V, Azure
+- 📫 LinkedIn: https://www.linkedin.com/in/pellej/
 
 <!--
 **pjoe/pjoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
