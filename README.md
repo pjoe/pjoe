@@ -6,7 +6,7 @@
   - [gfx-rs/naga](https://github.com/gfx-rs/naga) Shader translator
   - [wasm-shaders](https://github.com/pjoe/wasm-shaders) Shader translator, running in the browser: https://wasm-shaders.vercel.app/
 - 🌱 Learning:
-  - LLM: Copilot, Bolt, Ollama
+  - LLM: Claude, Codex, Copilot, Llama.cpp
   - GenAI: Flux, SwarmUI, ComfyUI
 - 📫 LinkedIn: https://www.linkedin.com/in/pellej/
 - ⚡ Fun fact: pjoe sounds like 啤酒 (píjiŭ) - beer 🍺
